@@ -1,0 +1,24 @@
+{
+  "name": "whatsapp_twilio",
+  "version": "1.0.0",
+  "description": "Implementando la API de Whatsapp de Twilio",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chrisft25/whatsapp_twilio.git"
+  },
+  "author": "Christopher Fuentes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chrisft25/whatsapp_twilio/issues"
+  },
+  "homepage": "https://github.com/chrisft25/whatsapp_twilio#readme",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "twilio": "^3.41.1"
+  }
+}
