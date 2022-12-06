@@ -18,7 +18,7 @@
   "homepage": "https://github.com/chrisft25/whatsapp_twilio#readme",
   "dependencies": {
     "dotenv": "^8.2.0",
-    "express": "^4.17.1",
+    "express": "^4.18.2",
     "twilio": "^3.41.1"
   }
 }
